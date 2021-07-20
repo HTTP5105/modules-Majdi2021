@@ -24,3 +24,5 @@ var statement = () =>
   `${theShire.name} was founded ${
     buckland.founding - theShire.founding
   } years before ${buckland.name}.`;
+
+export { eriadorDetails };
